@@ -49,7 +49,7 @@ A sophisticated system that detects hate speech across multiple modalities: text
   - English: [`dj-dawgs-ipd/IPD-Text-English-Finetune`](https://huggingface.space/dj-dawgs-ipd/IPD-Text-English-Finetune)
 - **Image Model**: [`dj-dawgs-ipd/IPD_IMAGE_PIPELINE`](https://huggingface.space/dj-dawgs-ipd/IPD_IMAGE_PIPELINE)
 - **Audio Model**: [`dj-dawgs-ipd/IPD-Audio-Pipeline`](https://huggingface.space/dj-dawgs-ipd/IPD-Audio-Pipeline)
-- **Sentiment Analysis**: [`cardiffnlp/twitter-roberta-base-sentiment-analysis`](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-analysis)
+- **Sentiment Analysis**: [`distilbert-base-uncased-finetuned-sst-2-english`](https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english)
 
 ## Usage
 
